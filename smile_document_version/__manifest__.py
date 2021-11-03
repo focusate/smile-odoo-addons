@@ -12,6 +12,7 @@
     'description': """
         Display document version
     """,
+    'license': 'LGPL-3',
     'summary': 'Smile Document Version',
     'website': 'http://www.smile.fr',
     'category': 'Document Management',
@@ -22,6 +23,6 @@
     'demo_xml': [],
     'test': [],
     'auto_install': False,
-    'installable': True,
+    'installable': False,
     'application': False,
 }

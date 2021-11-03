@@ -48,6 +48,6 @@ Suggestions & Feedback to: corentin.pouhet-brunerie@smile.fr
         'static/src/xml/search.xml',
     ],
     "auto_install": False,
-    "installable": True,
+    'installable': False,
     "application": False,
 }

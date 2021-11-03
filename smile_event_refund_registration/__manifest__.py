@@ -24,4 +24,5 @@
         'wizard/event_refund_view.xml',
         'views/event_registration.xml',
     ],
+    'installable': False,
 }

@@ -18,6 +18,6 @@
     "sequence": 20,
     "data": [],
     "auto_install": True,
-    "installable": True,
+    'installable': False,
     "application": False,
 }

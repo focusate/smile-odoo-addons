@@ -36,6 +36,6 @@ that this action is irreversible and the Yes/Cancel buttons.\n
         'wizard/confirm_anonymization_view.xml',
     ],
     "auto_install": False,
-    "installable": True,
+    'installable': False,
     "application": False,
 }

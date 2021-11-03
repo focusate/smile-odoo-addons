@@ -51,6 +51,6 @@ Suggestions & Feedback to: corentin.pouhet-brunerie@smile.fr
     ],
     "post_init_hook": 'post_init_hook',
     "test": [],
-    "installable": True,
+    'installable': False,
     "active": False,
 }

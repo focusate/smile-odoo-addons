@@ -13,6 +13,7 @@
     'description': """
         Document Management
     """,
+    'license': 'LGPL-3',
     'summary': 'Smile Document',
     'website': 'http://www.smile.fr',
     'category': 'Document Management',
@@ -27,6 +28,6 @@
     'demo_xml': [],
     'test': [],
     'auto_install': False,
-    'installable': True,
+    'installable': False,
     'application': False,
 }

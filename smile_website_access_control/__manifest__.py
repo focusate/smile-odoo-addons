@@ -20,6 +20,6 @@ Add access controls on website menus and pages
         "views/website_menu_view.xml",
     ],
     "demo": [],
-    "installable": True,
+    'installable': False,
     "active": False,
 }

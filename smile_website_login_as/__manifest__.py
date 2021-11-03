@@ -43,6 +43,6 @@ Suggestions & Feedback to: Corentin Pouhet-Brunerie & Victor Bahl
     "qweb": [
         "static/src/xml/login_as.xml",
     ],
-    "installable": True,
+    'installable': False,
     "active": False,
 }

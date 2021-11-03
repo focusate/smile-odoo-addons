@@ -27,7 +27,7 @@ Suggestions & Feedback to: corentin.pouhet-brunerie@smile.fr
     "test": [
         'test/audit_test.yml',
     ],
-    'installable': True,
+    'installable': False,
     'auto_install': False,
     'application': False,
 }

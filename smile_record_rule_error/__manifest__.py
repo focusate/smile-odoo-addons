@@ -21,6 +21,6 @@ Suggestions & Feedback to: Corentin Pouhet-Brunerie
     "demo": [],
     'test': [],
     "auto_install": False,
-    "installable": True,
+    'installable': False,
     "application": False,
 }

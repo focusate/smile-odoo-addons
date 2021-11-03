@@ -72,6 +72,6 @@ Suggestions & Feedback to: Corentin Pouhet-Brunerie
     ],
     'test': [],
     "auto_install": False,
-    "installable": True,
+    'installable': False,
     "application": False,
 }

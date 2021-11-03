@@ -25,6 +25,6 @@ Suggestions & Feedback to: Corentin Pouhet-Brunerie
         'views/webclient_templates.xml',
     ],
     "auto_install": False,
-    "installable": True,
+    'installable': False,
     "application": False,
 }

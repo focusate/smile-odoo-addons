@@ -16,6 +16,6 @@
         "security/ir.model.access.csv",
         "views/script_view.xml",
     ],
-    "installable": True,
+    'installable': False,
     "active": False,
 }

@@ -83,6 +83,6 @@ Suggestions & Feedback to: corentin.pouhet-brunerie@smile.fr
         "static/src/xml/code_version.xml",
     ],
     "auto_install": False,
-    "installable": True,
+    'installable': False,
     "application": False,
 }

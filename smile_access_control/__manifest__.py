@@ -42,6 +42,6 @@ matthieu.choplin@smile.fr
         'views/res_company_view.xml',
     ],
     "demo": [],
-    "installable": True,
+    'installable': False,
     "active": False,
 }

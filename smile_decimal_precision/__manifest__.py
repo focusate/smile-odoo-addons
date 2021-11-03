@@ -20,6 +20,6 @@ and display digits in decimal precision.
         "views/res_currency_view.xml",
     ],
     "auto_install": False,
-    "installable": True,
+    'installable': False,
     "application": False,
 }

@@ -44,6 +44,6 @@ Suggestions & Feedback to: corentin.pouhet-brunerie@smile.fr
     ],
     "demo": [],
     "auto_install": False,
-    "installable": True,
+    'installable': False,
     "application": False,
 }

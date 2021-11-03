@@ -47,6 +47,6 @@ corentin.pouhet-brunerie@smile.fr
         "demo/ir.logging.perf.rule.csv",
     ],
     "auto_install": False,
-    "installable": True,
+    'installable': False,
     "application": False,
 }

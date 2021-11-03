@@ -19,7 +19,7 @@ Suggestions & Feedback to: corentin.pouhet-brunerie@smile.fr
     """,
     "depends": ["document"],
     "data": [],
-    'installable': True,
+    'installable': False,
     'auto_install': False,
     'application': False,
 }
